@@ -4,3 +4,8 @@ title: Zahid Hasan
 description: Zahid Hasan CV
 
 logo: https://static.tvtropes.org/pmwiki/pub/images/one_piece_luffy.png
+
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
