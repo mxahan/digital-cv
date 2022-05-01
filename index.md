@@ -14,3 +14,6 @@ Two of our paper got accepted in the [SmartComp 2022](https://mxahan.github.io/b
 ## Experiences
 
 ## Academics
+
+
+[//] https://workwithcarolyn.com/blog/digital-cv-guide
