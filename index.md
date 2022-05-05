@@ -30,6 +30,11 @@ Two of our paper got accepted in the [SmartComp 2022](https://mxahan.github.io/b
 
 ## Experiences
 ---
+- Lecturer Daffodil University
+- Lecturer UAP
+- Internship in Philips
+- Research Assistant in UMBC
+
 
 ## Old research
 
