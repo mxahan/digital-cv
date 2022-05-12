@@ -13,9 +13,11 @@ Developing robust methods for image and video understanding using unlabeled raw 
 ## News
 ---
 
+Our research has been recognized as the best IS, UMBC Ph.D. Student research [link](https://informationsystems.umbc.edu/is-student-research-symposium-2022/)
+
 One of our research work has been published in SPIE 2022.
 
-Two of our paper got accepted in the [SmartComp 2022](https://mxahan.github.io/blog/).
+Two of our paper got accepted in the [SmartComp 2022](https://smartcomp.aalto.fi/accepted/).
 
 
 ## Publications
