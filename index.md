@@ -12,7 +12,7 @@ Developing robust methods for image and video understanding using unlabeled raw 
 
 ## Achievement
 - Award: Our research has been recognized as the best IS, UMBC Ph.D. Student research [link](https://informationsystems.umbc.edu/is-student-research-symposium-2022/)
-- Award: The (IEEE SP cup)[https://signalprocessingsociety.org/community-involvement/signal-processing-cup] 2015, Runner Up.
+- Award: The [IEEE SP cup](https://signalprocessingsociety.org/community-involvement/signal-processing-cup) 2015, Runner Up.
 - Dean's List Award in Undergraduate
 
 ## News
@@ -72,7 +72,11 @@ Responsibilities: I conducted research under the supervision of Philips AI scien
 ## Hobbies
 ---
 
-Shoot me a ping if you stay nearby me and want to hit for some 4-5 rated tennis match or 2000-2200 rated table-tennis.
+- Shoot me a ping if you stay nearby me and want to hit for some 4-5 rated tennis match or 2000-2200 rated table-tennis.
+- Writing critical summary blog of AI papers
+  - Deeply curious about underlying mathematics. 
+- Blogging about the things I get stuck. Hopefully others does not. 
+- Curious about research methods and academic writings. 
 
 
 [//] https://workwithcarolyn.com/blog/digital-cv-guide
