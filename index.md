@@ -51,7 +51,7 @@ Responsibilities: I conducted research under the supervision of Philips AI scien
 ---
 - rPPG Model Development [details](https://github.com/mxahan/rPPG_edge_implementation)
 - rPPG Edge Implementation [details](https://github.com/mxahan/project_rppg)
-- rPPG dataset
+- rPPG [dataset](https://ieee-dataport.org/documents/mpsc-rppg-dataset)
 
 ## Education
 ---
@@ -76,7 +76,8 @@ Responsibilities: I conducted research under the supervision of Philips AI scien
 - Writing critical summary blog of AI papers
   - Deeply curious about underlying mathematics. 
 - Blogging about the things I get stuck. Hopefully others does not. 
-- Curious about research methods and academic writings. 
+- Curious about research methods and academic writings.
+- Active problem solver in pytorch forum. [bio link](https://discuss.pytorch.org/u/mxahan/summary])
 
 ## Research Approach
 ---
