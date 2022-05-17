@@ -49,14 +49,12 @@ Responsibilities: I conducted research under the supervision of Philips AI scien
 
 ## Old research
 ---
-
-- rPPG Model Development
-- rPPG Edge Implementation
+- rPPG Model Development [details](https://github.com/mxahan/rPPG_edge_implementation)
+- rPPG Edge Implementation [details](https://github.com/mxahan/project_rppg)
 - rPPG dataset
 
 ## Education
 ---
-
 - University of Maryland, Baltimore County 
   - Ph.D. student (2020 -) [CGPA 4.00/4.00]
 - Boston University
@@ -72,8 +70,9 @@ Responsibilities: I conducted research under the supervision of Philips AI scien
 ## Hobbies
 ---
 
-- Shoot me a ping if you stay nearby me and want to hit for some 4-5 rated tennis match or 2000-2200 rated table-tennis.
+- Shoot me a ping if you stay nearby me and want to hit for some 4-5 rated tennis match or 2000-2200 rated table-tennis or 1800 rated chess.
   - Playing Style: Aggressive, & Lot of unforced errors. 
+  - Fan of g4 opening, play E4 when gets a bit serious. 
 - Writing critical summary blog of AI papers
   - Deeply curious about underlying mathematics. 
 - Blogging about the things I get stuck. Hopefully others does not. 
