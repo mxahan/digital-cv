@@ -78,5 +78,11 @@ Responsibilities: I conducted research under the supervision of Philips AI scien
 - Blogging about the things I get stuck. Hopefully others does not. 
 - Curious about research methods and academic writings. 
 
+## Research Approach
+---
+- I am interested in finding and solving research gap. 
+- Create Hypothesis, State the underlying assumption, Create experimentation, Check if it aligns with the hypothesis, Back to creating hypothesis. 
+  - Nutshell version! 
+
 
 [//] https://workwithcarolyn.com/blog/digital-cv-guide
