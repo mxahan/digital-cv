@@ -10,10 +10,13 @@ Machine learning, Deep learning, Self-supervised representation learning, comput
 ---
 Developing robust methods for image and video understanding using unlabeled raw data and contributing to computer science by proposing and validating Machine learning algorithms. 
 
+## Achievement
+- Award: Our research has been recognized as the best IS, UMBC Ph.D. Student research [link](https://informationsystems.umbc.edu/is-student-research-symposium-2022/)
+- Award: The (IEEE SP cup)[https://signalprocessingsociety.org/community-involvement/signal-processing-cup] 2015, Runner Up.
+- Dean's List Award in Undergraduate
+
 ## News
 ---
-
-Our research has been recognized as the best IS, UMBC Ph.D. Student research [link](https://informationsystems.umbc.edu/is-student-research-symposium-2022/)
 
 One of our research work has been published in SPIE 2022.
 
@@ -32,17 +35,44 @@ Two of our paper got accepted in the [SmartComp 2022](https://smartcomp.aalto.fi
 
 ## Experiences
 ---
-- Lecturer Daffodil University
-- Lecturer UAP
-- Internship in Philips
-- Research Assistant in UMBC
+- Lecturer Daffodil University (2015-2016) at Electrical and Electronic Engineering 
+Responsibilities: Conducting Undergratuate EEE classes, Labs and Evaluation
+Conducted Courses: Digital Signal Processing (DSP), Communication Theory
+- Lecturer UAP (2016-2018) at Electrical and Electronic Engineering 
+Responsibilities: Conducting Undergratuate EEE classes, Labs and Evaluation
+Conducted Courses: Random Signal Processing (RSP), Advanced DSP, Communication Theory, Cellular Communication.
+- Internship in Philips (May 2019 - December  2019)
+Responsibilities: I conducted research under the supervision of Philips AI scientists to develop a robust clutter removal filter for heart ultrasound for better Doppler-based blood flow estimation. We propose a data-driven approach to avoid the computational heavy SVD method for clutter removal and acheive high performing model to estimate blood flow from noisy heart ultrasound.
+- Research Assistant in UMBC (Spring 2020 - Ongoing)
+- *Paper Review*: Reviewed several papers on PerCom, DMKD, Smartcomp, IEEE workshop on ML for Big data, IoT journal, PMC Journal
 
 
 ## Old research
+---
 
+- rPPG Model Development
+- rPPG Edge Implementation
+- rPPG dataset
 
 ## Education
 ---
+
+- University of Maryland, Baltimore County 
+  - Ph.D. student (2020 -) [CGPA 4.00/4.00]
+- Boston University
+  - Ph.D. Fellowship (2018-2020)
+- Bangladesh University of Engineering and Technology
+  - B.Sc in Electrical and Electronic Engineering (2010 -2015) [CGPA 3.88/4.00], Merit Position 23/195
+
+## Coding Skills
+- Deep Learning Libraries: Pytorch, Tensorflow, Keras
+- Programming Languages: MATLAB/Octave, Python, C, C++, R
+- Simulation Software: PSpice, Proteus, MATLAB Simulink
+
+## Hobbies
+---
+
+Shoot me a ping if you stay nearby me and want to hit for some 4-5 rated tennis match or 2000-2200 rated table-tennis.
 
 
 [//] https://workwithcarolyn.com/blog/digital-cv-guide
