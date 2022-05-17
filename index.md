@@ -73,6 +73,7 @@ Responsibilities: I conducted research under the supervision of Philips AI scien
 ---
 
 - Shoot me a ping if you stay nearby me and want to hit for some 4-5 rated tennis match or 2000-2200 rated table-tennis.
+  - Playing Style: Aggressive, & Lot of unforced errors. 
 - Writing critical summary blog of AI papers
   - Deeply curious about underlying mathematics. 
 - Blogging about the things I get stuck. Hopefully others does not. 
