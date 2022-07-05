@@ -4,11 +4,11 @@ I am Zahid Hasan, 3rd Year Ph.D. Student, IS Department, UMBC. I am pursueing my
 
 ## Research Interest
 ---
-Machine learning, Deep learning, Self-supervised representation learning, computer vision, pattern recognition, Information theory, and their application to real-world problem-solving.
+Machine learning, Deep learning, Self-supervised representation learning, computer vision, Information theory, and their application to real-world problem-solving. 
 
 ## Current Reserach
 ---
-Developing robust methods for image and video understanding using unlabeled raw data and contributing to computer science by proposing and validating Machine learning algorithms.
+Developing robust methods for image and video understanding using unlabeled raw data and contributing to computer science by proposing and validating Machine learning algorithms. Particularly, I am looking into developing view-invariant vision system, and information preserving vision system from unlabeled data using self-supervised learning. 
 
 ## Achievement
 - Best paper awards [SmartComp 2022](https://smartcomp.aalto.fi/accepted/)
@@ -28,6 +28,7 @@ Developing robust methods for image and video understanding using unlabeled raw 
 
 ## Publications
 ---
+### Published
 - Z. Hasan, E. Dey, S. R. Ramamurthy, N. Roy, and A. Misra, “Rhythmedge: Enabling contactless heart rate estimation on the edge.”
 Accepted for publication in 2022 IEEE International Conference on Smart Computing (SMARTCOMP), 2022.
 -  Z. Hasan, E. Dey, S. R. Ramamurthy, N. Roy, and A. Misra, “Demo: Rhythmedge: Enabling contactless heart rate estimation on the edge.”
@@ -42,7 +43,6 @@ Accepted for publication in 2022 IEEE International Conference on Smart Computin
 
 ### Under review 
 - both of our under review works are double blined. Will update it as soon as I get green signal. 
-
 
 ## Experiences
 ---
