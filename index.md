@@ -55,7 +55,7 @@ Conducted Courses: Random Signal Processing (RSP), Advanced DSP, Communication T
 - Internship in Philips (May 2019 - December  2019)
 Responsibilities: I conducted research under the supervision of Philips AI scientists to develop a robust clutter removal filter for heart ultrasound for better Doppler-based blood flow estimation. We propose a data-driven approach to avoid the computational heavy SVD method for clutter removal and achieve high performing model to estimate blood flow from noisy heart ultrasound.
 - Research Assistant in UMBC (Spring 2020 - Ongoing)
-- *Paper Review*: Reviewed several papers on PerCom, DMKD, Smartcomp, IEEE workshop on ML for Big data, IoT journal, PMC Journal
+- *Paper Review*: Reviewed several papers on PerCom, DMKD, Smartcomp, IEEE workshop on ML for Big data, IoT journal, PMC Journal, IEEE Chase, IEEE-BSN
 
 
 ## Old research
