@@ -11,8 +11,8 @@ Machine learning, Deep learning, Self-supervised representation learning, comput
 Developing robust methods for image and video understanding using unlabeled raw data and contributing to computer science by proposing and validating Machine learning algorithms. Particularly, I am looking into developing view-invariant vision system, and information preserving vision system from unlabeled data using self-supervised learning. 
 
 ## Achievement
-- Best paper awards [SmartComp 2022](https://smartcomp.aalto.fi/accepted/)
-- Award: Our research has been recognized as the best IS, UMBC Ph.D. Student research [link](https://informationsystems.umbc.edu/is-student-research-symposium-2022/)
+- Best paper awards [SmartComp 2022](https://smartcomp.aalto.fi/accepted/) [video presentation](https://www.youtube.com/watch?v=76xDRSHPmfg)
+- Award: Our research has been recognized as the best IS, UMBC Ph.D. Student research [link](https://informationsystems.umbc.edu/is-student-research-symposium-2022/) [video presentation](https://www.youtube.com/watch?v=mPTVmjKqtdo)
 - Problem solving Award: The [IEEE SP cup](https://signalprocessingsociety.org/community-involvement/signal-processing-cup) 2015, Runner Up.
 - Award: NSF travel grant [chase 2021](https://conferences.computer.org/chase2021/students.html)
 - Dean's List Award in Undergraduate
