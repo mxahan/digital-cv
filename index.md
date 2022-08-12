@@ -27,6 +27,8 @@ Developing robust methods for image and video understanding using unlabeled raw 
 
 ##### I am mentoring undergraduate [REU](https://coeit.umbc.edu/nsf-reu/) students to develop federated learning scheme for remote PPG data. 
 
+##### Our recent paper got accepted in the [IEEE/ACM chase](https://conferences.computer.org/chase2022/) conference. 
+
 
 ## Publications
 ---
@@ -44,7 +46,7 @@ Accepted for publication in 2022 IEEE International Conference on Smart Computin
 - Hasan, Zahid, Sreenivasan Ramasamy Ramamurthy, and Nirmalya Roy. "CamSense: A camera-based contact-less heart activity monitoring." Smart Health 23 (2022): 100240.
 
 ### Under review 
-- both of our under review works are double blined. Will update it as soon as I get green signal. 
+- One our under review works are double blined. Will update it as soon as I get green signal. 
 
 ## Experiences
 ---
@@ -85,8 +87,9 @@ Responsibilities: I conducted research under the supervision of Philips AI scien
 ---
 - Active problem solver in pytorch forum. [bio link](https://discuss.pytorch.org/u/mxahan/summary])
 - Shoot me a ping if you stay nearby me and want to hit for some 4-5 rated tennis match or 2000-2200 rated table-tennis or 1800 rated chess.
-  - Playing Style: Aggressive, & Lot of unforced errors. 
-  - Fan of g4 opening, play E4 when gets a bit serious. 
+  - Table Tennis: Penhold grip, Beware of my backhand! Careful in the forehand. 
+  - Tennis: Playing Style: Aggressive, & Lot of unforced errors. 
+  - Chess: Fan of g4 opening, play E4 when gets a bit serious. 
 - Writing critical summary blog of AI papers
   - Deeply curious about underlying mathematics. 
 - Blogging about the things I get stuck. Hopefully others does not. 
