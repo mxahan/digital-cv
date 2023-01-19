@@ -33,6 +33,7 @@ Developing robust methods for image and video understanding using unlabeled raw 
 ## Publications
 ---
 ### Published
+- Hasan, Z., Faridee, A. Z. M., Ahmed, M., & Roy, N. (2022, November). Self-rPPG: Learning the Optical & Physiological Mechanics of Remote Photoplethysmography with Self-Supervision. In 2022 IEEE/ACM CHASE (pp. 46-56). IEEE.
 - Z. Hasan, E. Dey, S. R. Ramamurthy, N. Roy, and A. Misra, “Rhythmedge: Enabling contactless heart rate estimation on the edge.”
 Accepted for publication in 2022 IEEE International Conference on Smart Computing (SMARTCOMP), 2022.
 -  Z. Hasan, E. Dey, S. R. Ramamurthy, N. Roy, and A. Misra, “Demo: Rhythmedge: Enabling contactless heart rate estimation on the edge.”
