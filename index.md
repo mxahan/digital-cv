@@ -34,6 +34,10 @@ Developing robust methods for image and video understanding using unlabeled raw 
 ---
 ### Published
 
+- Masud Hasan, Zahid Hasan, Nirmalya Roy, et al. 'An Online Continuous Semantic Segmentation Framework With Minimal Labeling Efforts' in Proceedings of the 9th IEEE International Conference on Smart Computing (SmartComp), Nashville, Tennessee, USA, June 2023 
+- Zahid Hasan, Masud Hasan, Abu Zaher Md Faridee, Sanjay Purushotham, Heesung Kwon, Hyungtae Lee and Nirmalya Roy. NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery, in arXiv preprint, April 2023 
+- Maloy Kumar Devnath, Avijoy Chakma, Mohammad Saeid Anwar, Emon Dey, Zahid Hasan, Marc Conn, Biplab Pal, and Nirmalya Roy. A Systematic Study on Object Recognition Using Millimeter-wave Radar, in Proceedings of the 9th IEEE International Conference on Smart Computing (SmartComp), Nashville, Tennessee, USA, June 2023 
+- Zahid Hasan, Abu Zaher Md Faridee, Masud Ahmed and Nirmalya Roy. SrPPG: Semi-Supervised Adversarial Learning for Remote Photoplethysmography with Noisy Data, in Proceedings of the 9th IEEE International Conference on Smart Computing, Nashville, Tennessee, USA, June 2023 
 - Hasan, Z., Faridee, A. Z. M., Ahmed, M., & Roy, N. (2022, November). Self-rPPG: Learning the Optical & Physiological Mechanics of Remote Photoplethysmography with Self-Supervision. In 2022 IEEE/ACM CHASE (pp. 46-56). IEEE.
 - Z. Hasan, E. Dey, S. R. Ramamurthy, N. Roy, and A. Misra, “Rhythmedge: Enabling contactless heart rate estimation on the edge.”
 Accepted for publication in 2022 IEEE International Conference on Smart Computing (SMARTCOMP), 2022.
