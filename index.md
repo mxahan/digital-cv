@@ -24,20 +24,22 @@ Developing robust methods for image and video understanding using unlabeled raw 
 
 ## News
 ---
-##### Big news: Our team has won the best paper award in the [SmartComp 2022](https://smartcomp.aalto.fi/accepted/). Well, I am also in the news too. [twitter](https://twitter.com/umbcinfosystems/status/1541506410579623936), [MPSC lab](https://mpsc.umbc.edu/home). Thank you everyone for your kind wishes and contribution throughout this work.
+##### Presenting Tutorial at SmartComp: [Link](https://smartcomp.w.waseda.jp/tutorials/)
+
+##### Our team has won the best paper award in the [SmartComp 2022](https://smartcomp.aalto.fi/accepted/). Well, I am also in the news too. [twitter](https://twitter.com/umbcinfosystems/status/1541506410579623936), [MPSC lab](https://mpsc.umbc.edu/home). Thank you everyone for your kind wishes and contribution throughout this work.
 
 ##### I have been selected by my IS, umbc department to submit [Microsoft Fellowship Proposal](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/canada-us/). I will be submitting my future research ideas to improve novel categories discovery via contrastive learning approaches. 
 
 ##### I am mentoring undergraduate [REU](https://coeit.umbc.edu/nsf-reu/) students to develop a federated learning scheme for remote PPG data. 
 
-##### Our recent paper got accepted at the [IEEE/ACM chase](https://conferences.computer.org/chase2022/) conference. 
+##### Our recent paper got accepted at the [IEEE/ACM Chase](https://conferences.computer.org/chase2022/) conference. 
 
 
 ## Publications
 ---
 ### Published
 
-- Hasan, Z., Faridee, A. Z. M., Ahmed, M., Purushotham, S., Kwon, H., Lee, H., & Roy, N. (2023). Novel Categories Discovery from probability matrix perspective. arXiv preprint arXiv:2307.03856.
+- Hasan, Z., Faridee, A. Z. M., Ahmed, M., Purushotham, S., Kwon, H., Lee, H., & Roy, N. (2023). Novel Categories Discovery from Probability Matrix Perspective. arXiv preprint arXiv:2307.03856.
 - Masud Ahmed, Zahid Hasan, Nirmalya Roy, et al. 'An Online Continuous Semantic Segmentation Framework With Minimal Labeling Efforts' in Proceedings of the 9th IEEE International Conference on Smart Computing (SmartComp), Nashville, Tennessee, USA, June 2023 
 - Zahid Hasan, Masud Hasan, Abu Zaher Md Faridee, Sanjay Purushotham, Heesung Kwon, Hyungtae Lee and Nirmalya Roy. NEV-NCD: Negative Learning, Entropy, and Variance regularization based novel action categories discovery, in arXiv preprint, April 2023 (accepted for publication in ICIP-2023)
 - Maloy Kumar Devnath, Avijoy Chakma, Mohammad Saeid Anwar, Emon Dey, Zahid Hasan, Marc Conn, Biplab Pal, and Nirmalya Roy. A Systematic Study on Object Recognition Using Millimeter-wave Radar, in Proceedings of the 9th IEEE International Conference on Smart Computing (SmartComp), Nashville, Tennessee, USA, June 2023 
@@ -58,10 +60,10 @@ Accepted for publication in 2022 IEEE International Conference on Smart Computin
 ## Experiences
 ---
 - Lecturer Daffodil University (2015-2016) at Electrical and Electronic Engineering 
-Responsibilities: Conducting undergraduate EEE classes, Labs and Evaluation
+Responsibilities: Conducting undergraduate EEE classes, Labs, and Evaluation
 Conducted Courses: Digital Signal Processing (DSP), Communication Theory
 - Lecturer UAP (2016-2018) in Electrical and Electronic Engineering 
-Responsibilities: Conducting undergraduate EEE classes, Labs and Evaluation
+Responsibilities: Conducting undergraduate EEE classes, Labs, and Evaluation
 Conducted Courses: Random Signal Processing (RSP), Advanced DSP, Communication Theory, and Cellular Communication.
 - Internship in Philips (May 2019 - December  2019)
 Responsibilities: I conducted research under the supervision of Philips AI scientists to develop a robust clutter removal filter for heart ultrasound for better Doppler-based blood flow estimation. We propose a data-driven approach to avoid the computationally heavy SVD method for clutter removal and achieve high performing model to estimate blood flow from noisy heart ultrasound.
@@ -93,10 +95,10 @@ Responsibilities: I conducted research under the supervision of Philips AI scien
 ## Hobbies
 ---
 - Active problem solver in pytorch forum. [bio link](https://discuss.pytorch.org/u/mxahan/summary])
-- Shoot me a ping if you stay nearby me and want to hit for some 4-5 rated tennis match or 2000-2200 rated table tennis or 1800 rated chess.
+- Shoot me a ping if you stay near me and want to hit for some 4-5 rated tennis match or 2000-2200 rated table tennis or 1800 rated chess.
   - Table Tennis: Penhold grip, Beware of my backhand! Careful in the forehand. 
-  - Tennis: Playing Style: Aggressive, & Lot of unforced errors. 
-  - Chess: Fan of g4 opening, play E4 when gets a bit serious. 
+  - Tennis: Playing Style: Aggressive, a lot of unforced errors. 
+  - Chess: Fan of g4 opening, I play E4 when it gets a bit serious. 
 - Writing critical summary blogs of AI papers
   - Deeply curious about underlying mathematics. 
 - Blogging about the things I get stuck on. Hopefully, others do not. 
@@ -106,7 +108,7 @@ Responsibilities: I conducted research under the supervision of Philips AI scien
 ## Research Approach
 ---
 - I am interested in finding and solving research gaps.
-- I would be spending the majority of my time to know the SoTA research while formulating ideas to address one of the research gaps. 
+- I would spend most of my time to know the SoTA research while formulating ideas to address one of the research gaps. 
 - Create a Hypothesis, State the underlying assumption, Create experimentation, Check if it aligns with the hypothesis, Back to creating the hypothesis. 
   - Nutshell version! 
 
