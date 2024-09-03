@@ -1,6 +1,7 @@
 ## Introduction
 ---
-I am Zahid Hasan. I have completed my Ph.D. Student in the IS Department at UMBC under the supervision of [Dr. Nirmalya Roy](https://mpsc.umbc.edu/nroy) in [MPSC laboratory](https://mpsc.umbc.edu/home). 
+I am Zahid Hasan. I am currently working as a postdoctoral research associate at UMBC. 
+I have completed my Ph.D. Student in the IS Department at UMBC under the supervision of [Dr. Nirmalya Roy](https://mpsc.umbc.edu/nroy) in [MPSC laboratory](https://mpsc.umbc.edu/home). 
 
 ## Research Interest
 ---
