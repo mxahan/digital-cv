@@ -25,6 +25,8 @@ Developing robust methods for image and video understanding using unlabeled raw 
 
 ## News
 ---
+##### One of my papers got accepted at WACV-2026.
+##### One of my papers got accepted at ICCV-2025 Findings.
 ##### Presenting Tutorial at SmartComp: [Link](https://smartcomp.w.waseda.jp/tutorials/)
 
 ##### Our team has won the best paper award in the [SmartComp 2022](https://smartcomp.aalto.fi/accepted/). Well, I am also in the news too. [twitter](https://twitter.com/umbcinfosystems/status/1541506410579623936), [MPSC lab](https://mpsc.umbc.edu/home). Thank you everyone for your kind wishes and contribution throughout this work.
