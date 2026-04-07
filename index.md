@@ -1,6 +1,6 @@
 ## Introduction
 ---
-I am Zahid Hasan. I am currently working as a postdoctoral research associate at UMBC. 
+I am Zahid Hasan. I am currently working as an NIH T15 research Fellow at the University of Buffalo. 
 I have completed my Ph.D. Student in the IS Department at UMBC under the supervision of [Dr. Nirmalya Roy](https://mpsc.umbc.edu/nroy) in [MPSC laboratory](https://mpsc.umbc.edu/home). 
 
 ## Research Interest
@@ -9,7 +9,7 @@ Machine learning, Deep learning, Self-supervised representation learning, comput
 
 ## Current Research
 ---
-Developing robust methods for image and video understanding using unlabeled raw data and contributing to computer science by proposing and validating Machine learning algorithms. Particularly, I am looking into developing a view-invariant vision system, and an information-preserving vision system from unlabeled data using self-supervised learning. 
+Developing robust methods for image and video understanding using unlabeled raw data and contributing to computer science by proposing and validating Machine learning algorithms. Particularly, I am looking into developing a view-invariant vision system and an information-preserving vision system from unlabeled data using self-supervised learning. 
 
 ## Achievement
 - Best paper awards [SmartComp 2023](https://smartcomp.isis.vanderbilt.edu/accepted.html)
@@ -97,11 +97,11 @@ Responsibilities: I conducted research under the supervision of Philips AI scien
 
 ## Hobbies
 ---
-- Active problem solver in pytorch forum. [bio link](https://discuss.pytorch.org/u/mxahan/summary])
+- Active problem solver in PyTorch forum. [bio link](https://discuss.pytorch.org/u/mxahan/summary])
 - Shoot me a ping if you stay near me and want to hit for some 4-5 rated tennis match or 2000-2200 rated table tennis or 1800 rated chess.
   - Table Tennis: Penhold grip, Beware of my backhand! Careful in the forehand. 
   - Tennis: Playing Style: Aggressive, a lot of unforced errors. 
-  - Chess: Fan of g4 opening, I play E4 when it gets a bit serious. 
+  - Chess: Fan of the g4 opening, I play E4 when it gets a bit serious. 
 - Writing critical summary blogs of AI papers
   - Deeply curious about underlying mathematics. 
 - Blogging about the things I get stuck on. Hopefully, others do not. 
@@ -111,8 +111,8 @@ Responsibilities: I conducted research under the supervision of Philips AI scien
 ## Research Approach
 ---
 - I am interested in finding and solving research gaps.
-- I would spend most of my time to know the SoTA research while formulating ideas to address one of the research gaps. 
-- Create a Hypothesis, State the underlying assumption, Create experimentation, Check if it aligns with the hypothesis, Back to creating the hypothesis. 
+- I would spend most of my time learning about the SoTA research while formulating ideas to address one of the research gaps. 
+- Create a Hypothesis, state the underlying assumption, create experimentation, check if it aligns with the hypothesis, Back to creating the hypothesis. 
   - Nutshell version! 
 
 
